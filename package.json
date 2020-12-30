@@ -1,0 +1,31 @@
+{
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "jsdom": "^16.4.0"
+  },
+  "name": "change-my-background-color",
+  "description": "This simple javascript project will allow you to change any background color that you want. But if you enter a not valid color, this will pop up, \"Please enter a valid color!\". So, please enter a valid color!",
+  "version": "1.0.0",
+  "main": "script.js",
+  "dependencies": {
+    "assertion-error": "^1.1.0",
+    "check-error": "^1.0.2",
+    "deep-eql": "^3.0.1",
+    "get-func-name": "^2.0.0",
+    "pathval": "^1.1.0",
+    "type-detect": "^4.0.8"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clediscover/Change-My-Background-Color.git"
+  },
+  "author": "CLeDiscover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clediscover/Change-My-Background-Color/issues"
+  },
+  "homepage": "https://github.com/clediscover/Change-My-Background-Color#readme"
+}
